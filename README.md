@@ -49,7 +49,11 @@ Users should be able to:
 
 ### What I learned
 
-This challenge gave me a good exposure on styling. I have learned how to use background images for applying fading background
+This challenge gave me a good exposure on styling. I have learned how to use background images for applying fading background.
+Also, I've used Vite for the first time to set up the project. It is a great tool for setting up react projects. It is very fast and easy to use.
+It was a new learning on how to deploy vite app to GitHub pages.
+
+```css
 
 ## Author
 
