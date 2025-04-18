@@ -11,8 +11,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -34,8 +32,8 @@ Users should be able to:
 ![Desktop Thank you](./preview-images/thank-you.png)
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/phanindra28/interactive-rating-component)
+- Live Site URL: [Live](https://phanindra28.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -56,3 +54,4 @@ This challenge gave me a good exposure on styling. I have learned how to use bac
 ## Author
 
 - Frontend Mentor - [@Phanindra28](https://www.frontendmentor.io/profile/phanindra28)
+- Github - [phanindra28](https://github.com/phanindra28/)
